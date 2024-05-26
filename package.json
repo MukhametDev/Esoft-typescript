@@ -1,0 +1,13 @@
+{
+  "name": "ts-homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start":"node homework.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
